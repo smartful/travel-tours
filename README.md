@@ -1,3 +1,6 @@
+# Travel Tour
+It's an app which cards of city tour.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

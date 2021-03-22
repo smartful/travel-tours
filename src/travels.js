@@ -16,5 +16,17 @@ export const travels = [
     price: 2695,
     description: 'Morbi luctus tortor id tincidunt placerat. Fusce rhoncus risus sed urna egestas, dictum condimentum turpis posuere. Nunc rhoncus et sapien in luctus. Nunc interdum eleifend orci, vel convallis sapien efficitur ut. Morbi interdum nibh a nunc scelerisque hendrerit. In iaculis nec eros sit amet vulputate. Nam feugiat lacus vitae dignissim aliquet. Praesent quis dignissim arcu. Quisque id fringilla lectus, quis vulputate nisl. Fusce hendrerit tortor sed odio aliquet maximus. Nulla sed laoreet nunc, eu elementum sem. Donec quis lobortis metus, et rhoncus massa. Donec dolor justo, volutpat in nibh vel, pulvinar laoreet felis.',
     srcImg: 'https://dl.airtable.com/.attachments/27f6cbfe631e303f98b97e9dafacf25b/6bbe2a07/vienna.jpeg'
-  }
+  },
+  {
+    name: 'Rome In 7 Days',
+    price: 2095,
+    description: 'Morbi luctus tortor id tincidunt placerat. Fusce rhoncus risus sed urna egestas, dictum condimentum turpis posuere. Nunc rhoncus et sapien in luctus. Nunc interdum eleifend orci, vel convallis sapien efficitur ut. Morbi interdum nibh a nunc scelerisque hendrerit. In iaculis nec eros sit amet vulputate. Nam feugiat lacus vitae dignissim aliquet. Praesent quis dignissim arcu. Quisque id fringilla lectus, quis vulputate nisl. Fusce hendrerit tortor sed odio aliquet maximus. Nulla sed laoreet nunc, eu elementum sem. Donec quis lobortis metus, et rhoncus massa. Donec dolor justo, volutpat in nibh vel, pulvinar laoreet felis.',
+    srcImg: 'https://dl.airtable.com/.attachments/3efa7aa402d49c12b8769c581a96af42/d5b641e3/italy.jpeg'
+  },
+  {
+    name: 'Poland In 10 Days',
+    price: 2595,
+    description: 'Morbi luctus tortor id tincidunt placerat. Fusce rhoncus risus sed urna egestas, dictum condimentum turpis posuere. Nunc rhoncus et sapien in luctus. Nunc interdum eleifend orci, vel convallis sapien efficitur ut. Morbi interdum nibh a nunc scelerisque hendrerit. In iaculis nec eros sit amet vulputate. Nam feugiat lacus vitae dignissim aliquet. Praesent quis dignissim arcu. Quisque id fringilla lectus, quis vulputate nisl. Fusce hendrerit tortor sed odio aliquet maximus. Nulla sed laoreet nunc, eu elementum sem. Donec quis lobortis metus, et rhoncus massa. Donec dolor justo, volutpat in nibh vel, pulvinar laoreet felis.',
+    srcImg: 'https://dl.airtable.com/.attachments/3feee7a93af0f4f809312132090c9a80/58e3e8ec/poland.jpeg'
+  },
 ]

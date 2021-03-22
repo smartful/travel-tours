@@ -1,20 +1,12 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import TextZone from './TextZone'
+import './Card.css'
 
 const Card = ({ name, price, description, srcImg }) => {
-  const cardStyle = {
-    width: '50%',
-    height: '35rem',
-    border: '1px solid white',
-    borderRadius: '2rem',
-    backgroundColor: 'white',
-    marginBottom: '3rem'
-  }
-
   return (
-    <div style={cardStyle}>
-      <img src={srcImg} alt={name} width='100%' height='50%' />
+    <div className='card'>
+      <img src={srcImg} alt={name} className='image' />
       <TextZone name={name} price={price} description={description} />
     </div>
   )

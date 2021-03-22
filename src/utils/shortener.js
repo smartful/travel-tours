@@ -1,4 +1,4 @@
-export const shortener = (text, length) => {
+export const shortener = (text, length = 50) => {
   if (text.length < length) {
     return text
   }

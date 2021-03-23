@@ -1,6 +1,6 @@
 .card {
   width: 50%;
-  height: 35rem;
+  height: 40rem;
   border: 1px solid white;
   border-radius: 1.2rem;
   background-color: white;
@@ -18,4 +18,13 @@
   height: 50%;
   border-top-left-radius: 1.2rem;
   border-top-right-radius: 1.2rem;
+}
+
+.withdraw {
+  color: #FF4949;
+  background-color: #FFDDDD;
+  border: 3px solid #FF4949;
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding: 0.8rem;
 }
